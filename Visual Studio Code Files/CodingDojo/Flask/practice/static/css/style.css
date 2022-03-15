@@ -1,0 +1,22 @@
+body{
+    background-color: #05386B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+table, th, td, thead{
+    border: 1 px solid black;
+    width: auto;
+    margin: 10px;
+    padding: 10px;
+}
+
+thead{
+    background-color: #EDF5E1;
+    color: #379683;
+}
+
+td {
+    background-color: #379683;
+    color: #EDF5E1;
+}
