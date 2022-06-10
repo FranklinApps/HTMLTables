@@ -24,3 +24,5 @@ function choose(){
     newArr.splice(document.getElementById("userInputIndex").value, 0, document.getElementById("userInput").value)
     document.getElementById("userArr").innerText=newArr;
 }
+
+//This comment is only to check a github commit via the terminal
