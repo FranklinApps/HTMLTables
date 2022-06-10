@@ -1,0 +1,11 @@
+body{
+    background-color: #28536b;
+    color: #79a9d1;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    flex-flow: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+
